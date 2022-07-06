@@ -7,7 +7,8 @@
       "production": "[1991]",
       "director": "Tarantino",
       "clasificacion": "Acción",
-      "descripcion": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención."
+      "descripcion": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+      "information": "https://www.filmaffinity.com/es/film160882.html"
     },
     {
       "id": 4,
@@ -16,7 +17,8 @@
       "production": "[2007]",
       "director": "Zack Snyder",
       "clasificacion": "Acción",
-      "descripcion": "El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior."
+      "descripcion": "El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
+      "information": "https://www.filmaffinity.com/es/film160882.html"
     },
     {
       "id": 5,
@@ -25,16 +27,18 @@
       "production": "[2007]",
       "director": "Jonathan Demme",
       "clasificacion": "Drama",
-      "descripcion": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención."
+      "descripcion": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+      "information": "https://www.filmaffinity.com/es/film160882.html"
     },
     {
       "id": 6,
-      "caratula": "https://pics.filmaffinity.com/forrest_gump-212765827-mmed.jpg",
-      "nombre": "Forrest Gump", 
-      "production": "{1994}",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia",
-      "descripcion": "Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida."
+      "caratula": "https://pics.filmaffinity.com/onoda_10_000_nuits_dans_la_jungle-553230674-mmed.jpg",
+      "nombre": "Onoda, 10.000 noches en la jungla", 
+      "production": "[2021]",
+      "director": "Arthur Harari",
+      "clasificacion": "Drama. Bélico ",
+      "descripcion": "Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida.",
+      "information": "https://www.filmaffinity.com/es/film330276.html"
     },
     {
       "id": 7,
@@ -43,31 +47,38 @@
       "production": "[1933]",
       "director": "Luis Buñuel",
       "clasificacion": "Documental",
-      "descripcion": "Cortometraje documental que hace un retrato de Las Hurdes (Cáceres), una de las regiones más pobres y menos desarrolladas de la España de 1932. La insalubridad, la miseria y la falta de oportunidades provocan la emigración de los jóvenes y la soledad de quienes se quedan en esta desolada región extremeña."
+      "descripcion": "Cortometraje documental que hace un retrato de Las Hurdes (Cáceres), una de las regiones más pobres y menos desarrolladas de la España de 1932. La insalubridad, la miseria y la falta de oportunidades provocan la emigración de los jóvenes y la soledad de quienes se quedan en esta desolada región extremeña.",
+      "information": "https://www.filmaffinity.com/es/film160882.html"
     },
     {
-      "id": 8
+      "id": 8,
+      "caratula": "https://pics.filmaffinity.com/doraibu_mai_ka-619916763-mmed.jpg",
+      "nombre": "Drive My Car",
+      "production": "[2021]",
+      "director": "Ryûsuke Hamaguchi"
     },
     {
-      "caratula": "https://pics.filmaffinity.com/the_sixth_sense-516003703-mmed.jpg",
-      "nombre": "El sexto sentido",
-      "production": "[1999]",
-      "director": "M. Night Shyamalan",
+      "caratula": "https://pics.filmaffinity.com/kaidan-290007578-mmed.jpg",
+      "nombre": "Kaidan",
+      "production": "[1964]",
+      "director": "Masaki Kobayashi",
       "clasificacion": "Drama",
       "id": 9
     },
     {
-      "nombre": "Sagan",
-      "production": "[Unknow]",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "caratula": "https://pics.filmaffinity.com/ran-397228667-mmed.jpg",
+      "nombre": "Ran",
+      "production": "[1984]",
+      "director": "Akira Kurosawa",
+      "clasificacion": "Drama Belico",
       "id": 10
     },
     {
-      "nombre": "Batman",
-      "production": "[Unknow]",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "caratula": "https://pics.filmaffinity.com/suna_no_onna_woman_in_the_dunes-825837663-mmed.jpg",
+      "nombre": "La Mujer de la Arena",
+      "production": "[1964]",
+      "director": "Hiroshi Teshigahara",
+      "clasificacion": "Drama Thriller",
       "id": 11
     }
   ],
@@ -89,4 +100,13 @@
       "id": 4
     }
   ]
+
+
+
+
+
+
+
+
+  
 }

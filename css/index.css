@@ -1,0 +1,36 @@
+body{
+    background-color: beige;
+
+}
+body>h1{
+    font-family: monospace;
+    font-style: bold 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#moviesSection{
+    font-size: 20px;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-self: fe;
+    
+    
+}
+div{
+   background-color: peru;
+   padding: auto;
+}
+footer{
+    border-top: 2px solid black;
+    font-family: monospace;
+    font-style: bold 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

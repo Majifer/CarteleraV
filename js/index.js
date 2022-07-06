@@ -26,13 +26,16 @@ fetchMoviesJSON().then(movies =>{
 
         let description = movies.peliculas[index].descripcion;
 
+        let info = movies.peliculas[index].information;
+
         moviesSection.innerHTML +=`
         <div class="card" style="width: 18rem;">
             <img src="${img}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">${id}. ${title} - ${year}</h5>
-                <p class="card-text">${director} - ${gender} -<br><br> ${description}</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <p>------------</p>
+                <p class="card-text">${director} - ${gender} -<p>------------</p><br><br> ${description}</p>
+                <a href="${info}" class="btn btn-primary">Valoraciones y Criticas sobre la Pelicula</a>
             </div>
         </div>
         
