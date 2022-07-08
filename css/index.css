@@ -8,29 +8,57 @@ body>h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: cadetblue;
+    margin-top: 100px;
+    height: 200px;
 
 }
 #moviesSection{
+    display: grid;
+    grid-gap: 4em;
+    grid-template-columns: repeat(6,1fr);
+    margin-left: auto;
+    padding: auto;
     font-size: 20px;
+    /*
     font-family: monospace;
     display: flex;
     justify-content: center;
     align-self: fe;
-    
-    
+    */
 }
 div{
+    /*propierties of the Card-Div*/
    background-color: peru;
    padding: auto;
 }
+div>p{
+    /*Paragraphs into the Div herarchy of the Card Body*/
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 footer{
+    /*propierties of Footer [Work in Progress]*/
     border-top: 2px solid black;
+    font-size: 60px;
     font-family: monospace;
     font-style: bold 6px;
     display: flex;
     justify-content: center;
+    margin-top: 200px;
     align-items: center;
 }
 
+.btn-primary{
+    background-color: rgb(35, 108, 255);
+    border: 2px solid black;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-
+}

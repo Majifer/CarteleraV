@@ -34,7 +34,9 @@ fetchMoviesJSON().then(movies =>{
             <div class="card-body">
                 <h5 class="card-title">${id}. ${title} - ${year}</h5>
                 <p>------------</p>
-                <p class="card-text">${director} - ${gender} -<p>------------</p><br><br> ${description}</p>
+                <p class="card-text">${director} - ${gender} -<p>------------</p><br><p>SINOPSIS</p>${description}</p>
+                <a href="${info}" class="btn btn-primary">Valoraciones y Criticas sobre la Pelicula</a><br><br>
+                <a href="${info}" class="btn btn-primary">Valoraciones y Criticas sobre la Pelicula</a><br><br>
                 <a href="${info}" class="btn btn-primary">Valoraciones y Criticas sobre la Pelicula</a>
             </div>
         </div>

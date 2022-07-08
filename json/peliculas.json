@@ -55,6 +55,8 @@
       "caratula": "https://pics.filmaffinity.com/doraibu_mai_ka-619916763-mmed.jpg",
       "nombre": "Drive My Car",
       "production": "[2021]",
+      "clasificacion": "Documental",
+      "descripcion": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra Tío Vania en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
       "director": "Ryûsuke Hamaguchi"
     },
     {
@@ -80,6 +82,32 @@
       "director": "Hiroshi Teshigahara",
       "clasificacion": "Drama Thriller",
       "id": 11
+    },
+    {
+      "caratula": "https://pics.filmaffinity.com/taxi_driver-173769074-mmed.jpg",
+      "nombre": "Taxi Driver",
+      "production": "[1976]",
+      "director": "Martin Scorsese",
+      "clasificacion": "Drama Thriller",
+      "id": 12
+    },
+    {
+      "caratula": "https://pics.filmaffinity.com/verdens_verste_menneske-632039863-mmed.jpg",
+      "nombre": "La Peor Persona del Mundo",
+      "production": "[2021]",
+      "director": "Joachim Trier",
+      "clasificacion": "Comedia Drama",
+      "descripcion": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
+      "id": 13
+    },
+    {
+      "caratula": "https://pics.filmaffinity.com/lunana_a_yak_in_the_classroom-667111315-large.jpg",
+      "nombre": "Lunana, un yak en la escuela",
+      "production": "[2019]",
+      "director": "Pawo Choyning Dorji",
+      "clasificacion": "Drama Thriller",
+      "descripcion": "Ugyen es un joven profesor en Bután, que elude sus deberes mientras planea ir a Australia para convertirse en cantante. Como reprimenda, sus superiores le envían a la escuela más remota del mundo, una aldea glacial del Himalaya llamada Lunana. Tras un agotador viaje, Ugyen llega a Lunana, donde se encuentra sin electricidad ni calefacción, en una escuela sin ventanas ni pizarra. Aunque pobres, los aldeanos dan una cálida bienvenida a su nuevo maestro, pero él se enfrenta a la abrumadora tarea de enseñar a los niños del pueblo sin ningún material. Desesperado, quiere abandonar y marcharse cuanto antes pero, poco a poco, se ve conquistado por la sencillez, bondad y ganas de aprender de los pequeños y sus familias.",
+      "id": 14
     }
   ],
   "clasificaciones": [
